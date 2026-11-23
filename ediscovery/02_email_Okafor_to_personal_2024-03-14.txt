@@ -1,0 +1,19 @@
+From: Dana Okafor <dokafor@brightwater-analytics.com>
+To: dana.okafor.home@gmail.com
+Date: Thu, 14 Mar 2024 23:47:12 -0500
+Subject: stuff for later
+Attachments: tidewater_pricing_v4.zip (48.2 MB); tw_model_weights_FINAL.pkl (212.7 MB)
+
+sending these to myself before things get weird. the elasticity module
+and the regional calibration tables are in the zip. weights are the
+Feb retrain.
+
+don't forget to clear sent folder.
+
+D.
+
+--
+Dana Okafor | Senior Data Scientist
+Brightwater Analytics, Inc.
+CONFIDENTIALITY NOTICE: This email and any attachments are confidential
+and intended solely for the named recipient.

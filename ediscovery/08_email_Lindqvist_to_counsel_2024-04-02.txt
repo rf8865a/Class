@@ -1,0 +1,33 @@
+From: Marcus Lindqvist <mlindqvist@brightwater-analytics.com>
+To: Rebecca Halloran <rhalloran@halloranpike.com>
+Cc: Tom Iwu <tiwu@halloranpike.com>
+Date: Tue, 2 Apr 2024 14:22:09 -0500
+Subject: FW: stuff for later  -- PRIVILEGED & CONFIDENTIAL / SEEKING LEGAL ADVICE
+
+Rebecca, Tom,
+
+IT found the email below during their post-departure review of Dana's
+mailbox. I'd like your advice on (1) whether we have grounds to seek a
+TRO against Corvane, and (2) whether we should reach out to Dana directly
+or let you send a demand letter. My instinct is we move fast, but I don't
+want to tip our hand if that hurts us. Please advise.
+
+Also -- should we be worried that the Tidewater repo wasn't behind 2FA
+until January? I'd rather you hear it from me.
+
+Marcus
+
+---------- Forwarded message ----------
+From: Dana Okafor <dokafor@brightwater-analytics.com>
+To: dana.okafor.home@gmail.com
+Date: Thu, 14 Mar 2024 23:47:12 -0500
+Subject: stuff for later
+Attachments: tidewater_pricing_v4.zip (48.2 MB); tw_model_weights_FINAL.pkl (212.7 MB)
+
+sending these to myself before things get weird. the elasticity module
+and the regional calibration tables are in the zip. weights are the
+Feb retrain.
+
+don't forget to clear sent folder.
+
+D.
